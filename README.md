@@ -11,3 +11,6 @@ This step require the claims data, which is not public available for many of the
 
 `python3 train.py`
 
+# Thoughts and future work:
+
+please refer to the ppt files, it contains experiments that are not shown in the paper. We future summerize the overall experiments and update here.
